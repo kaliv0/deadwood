@@ -6,3 +6,7 @@ def buzz():
 
 def jazz():
     return "Jazz"
+
+class Django:
+    def unchain(self):
+        pass
